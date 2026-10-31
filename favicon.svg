@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#182321"/>
+  <text x="32" y="41" fill="#fffefa" font-family="Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="-2" text-anchor="middle">MA<tspan fill="#c7f36b">.</tspan></text>
+  <path d="M0 60h64v4H0z" fill="#c7f36b"/>
+</svg>

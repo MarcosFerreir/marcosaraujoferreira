@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f4f3ee">
+    <meta name="description" content="Marketing digital em Aracaju com estratégia de Meta Ads, Google Ads, SEO local e mensuração de conversões para negócios de Sergipe.">
+    <meta name="author" content="Marcos Araújo Ferreira">
+    <meta name="geo.region" content="BR-SE">
+    <meta name="geo.placename" content="Aracaju">
+    <link rel="canonical" href="https://marcosaraujoferreira.com.br/marketing-digital-aracaju.html">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:url" content="https://marcosaraujoferreira.com.br/marketing-digital-aracaju.html">
+    <meta property="og:image" content="https://marcosaraujoferreira.com.br/assets/marketing-digital.jpg">
+    <meta property="og:title" content="Marketing Digital e Tráfego Pago em Aracaju | Marcos Araújo">
+    <meta property="og:description" content="Meta Ads, Google Ads, SEO local e estratégia de conversão para negócios que querem crescer em Aracaju e Sergipe.">
+    <title>Marketing Digital e Tráfego Pago em Aracaju | Marcos Araújo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Marketing digital e SEO local em Aracaju",
+        "serviceType": "Marketing digital, gestão de tráfego pago, SEO local e mensuração de conversões",
+        "description": "Estratégia de aquisição digital com campanhas, busca local, conteúdo e mensuração para negócios de Aracaju e Sergipe.",
+        "url": "https://marcosaraujoferreira.com.br/marketing-digital-aracaju.html",
+        "areaServed": [{ "@type": "City", "name": "Aracaju" }, { "@type": "AdministrativeArea", "name": "Sergipe" }],
+        "provider": { "@type": "Person", "name": "Marcos Araújo Ferreira", "url": "https://marcosaraujoferreira.com.br/" }
+      }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body class="marketing-page">
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+    <header class="site-header navbar navbar-expand-lg">
+      <a class="brand" href="index.html#inicio" aria-label="Marcos Araújo Ferreira, início"><span class="brand-mark" aria-hidden="true">MA<span>.</span></span><span class="brand-name">Marcos Araújo<br>Ferreira</span></a>
+      <button class="menu-toggle navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#site-nav" aria-expanded="false" aria-controls="site-nav" aria-label="Abrir menu"><span></span><span></span></button>
+      <nav class="site-nav collapse navbar-collapse" id="site-nav" aria-label="Navegação principal"><div class="navbar-nav ms-auto align-items-lg-center gap-lg-4"><a class="nav-link" href="index.html#servicos">Todos os serviços</a><a class="nav-link" href="infraestrutura-redes-aracaju.html">Infraestrutura e redes</a><a class="nav-link" href="desenvolvimento-web-aracaju.html">Desenvolvimento web</a><a class="nav-link nav-contact" href="#contato">Conversar <span aria-hidden="true">↗</span></a></div></nav>
+    </header>
+    <main id="conteudo">
+      <section class="marketing-hero" aria-labelledby="service-title">
+        <div class="marketing-hero-inner section-wrap">
+          <div class="marketing-hero-copy">
+            <p class="eyebrow"><span class="status-dot"></span> AQUISIÇÃO E PERFORMANCE DIGITAL <span class="eyebrow-divider">/</span> ARACAJU, SE</p>
+            <h1 id="service-title">Marketing digital que move negócios em Aracaju<span>.</span></h1>
+            <p class="service-detail-lead">Anúncios, busca local e otimização para transformar atenção em oportunidade.</p>
+            <p class="service-detail-text">Meta Ads, Google Ads e SEO local com estratégia, acompanhamento de métricas e foco em conversas e vendas.</p>
+            <div class="hero-actions"><a class="button button-dark" href="https://wa.me/5561996556538?text=Ol%C3%A1%2C%20Marcos.%20Quero%20estruturar%20o%20marketing%20digital%20e%20o%20tr%C3%A1fego%20da%20minha%20empresa." target="_blank" rel="noopener noreferrer">Estruturar meu marketing <span aria-hidden="true">↗</span></a><a class="text-link" href="#escopo">Conhecer as frentes <span aria-hidden="true">↓</span></a></div>
+            <ul class="marketing-channel-tags" aria-label="Canais e estratégia">
+              <li>Meta Ads</li><li>Google Ads</li><li>SEO local</li>
+            </ul>
+          </div>
+          <aside class="marketing-hero-note" aria-label="Resumo das frentes de marketing">
+            <span class="marketing-hero-note-index">ESTRATÉGIA DIGITAL&nbsp; / &nbsp;01—04</span>
+            <span class="marketing-hero-note-mark" aria-hidden="true">M<span>.</span></span>
+            <span class="marketing-hero-note-caption">NEGÓCIOS LOCAIS · ARACAJU, SE</span>
+            <div class="marketing-hero-note-bottom"><strong>Mais presença.<br>Mais intenção.</strong><span>PLANEJAR<br>→ ALCANÇAR<br>→ MEDIR</span></div>
+          </aside>
+        </div>
+        <a class="marketing-hero-scroll" href="#escopo"><span aria-hidden="true">↓</span> EXPLORE AS FRENTES</a>
+      </section>
+      <section class="marketing-fast-lanes" aria-label="Principais frentes do marketing digital">
+        <a class="marketing-fast-card marketing-fast-paid" href="#meta-ads">
+          <span class="marketing-fast-number">01</span>
+          <span class="marketing-fast-icon" aria-hidden="true">↗</span>
+          <span class="marketing-fast-copy"><strong>Apareça para as pessoas certas</strong><small>Meta Ads + Google Ads</small></span>
+          <span class="marketing-fast-arrow" aria-hidden="true">↗</span>
+        </a>
+        <a class="marketing-fast-card marketing-fast-local" href="#seo-local">
+          <span class="marketing-fast-number">02</span>
+          <span class="marketing-fast-icon" aria-hidden="true">⌖</span>
+          <span class="marketing-fast-copy"><strong>Seja encontrado em Aracaju</strong><small>SEO e presença local</small></span>
+          <span class="marketing-fast-arrow" aria-hidden="true">↗</span>
+        </a>
+        <a class="marketing-fast-card marketing-fast-data" href="#mensuracao">
+          <span class="marketing-fast-number">03</span>
+          <span class="marketing-fast-icon" aria-hidden="true">⌁</span>
+          <span class="marketing-fast-copy"><strong>Entenda o que gera contato</strong><small>Métricas e conversão</small></span>
+          <span class="marketing-fast-arrow" aria-hidden="true">↗</span>
+        </a>
+      </section>
+      <section class="marketing-method" aria-labelledby="marketing-method-title">
+        <div class="marketing-method-banner">
+          <div class="section-wrap">
+            <p class="eyebrow">MARKETING DIGITAL&nbsp; / &nbsp;ARACAJU, SE</p>
+            <h2 id="marketing-method-title">O QUE <span>FAZEMOS</span></h2>
+            <ul class="marketing-method-pillars" aria-label="Pilares de trabalho">
+              <li>MÍDIA</li><li>CRIATIVO</li><li>ESTRATÉGIA</li><li>DADOS</li>
+            </ul>
+          </div>
+        </div>
+        <div class="marketing-method-story">
+          <div class="section-wrap">
+            <div class="marketing-method-message">
+              <h3>Se procuram pelo que você faz, <span>sua marca precisa aparecer.</span></h3>
+              <div class="marketing-method-copy">
+                <p>Conectamos anúncios, conteúdo e busca local em uma estratégia pensada para o seu negócio e para as pessoas que você quer alcançar em Aracaju.</p>
+                <p>Planejamento e acompanhamento orientam os próximos passos — sem fórmulas prontas ou promessa de resultado garantido.</p>
+              </div>
+            </div>
+          </div>
+          <nav class="marketing-method-nav" aria-label="Explore as frentes de marketing">
+            <a href="#meta-ads">META ADS</a>
+            <a href="#google-ads">GOOGLE ADS</a>
+            <a href="#seo-local">SEO LOCAL</a>
+            <a href="#mensuracao">MÉTRICAS E OTIMIZAÇÃO</a>
+          </nav>
+        </div>
+      </section>
+      <section class="marketing-showcase" aria-labelledby="marketing-showcase-title">
+        <div class="section-wrap">
+          <div class="marketing-showcase-heading">
+            <div>
+              <p class="eyebrow"><span class="status-dot"></span> IDEIA, MÍDIA E EXPERIÊNCIA DIGITAL</p>
+              <h2 id="marketing-showcase-title">Marketing que chama atenção<br>e abre <span>conversas.</span></h2>
+            </div>
+            <p>Explore as frentes do trabalho. Use as setas ou os indicadores para navegar no seu ritmo.</p>
+          </div>
+          <div id="marketing-carousel" class="carousel slide marketing-carousel" data-bs-keyboard="true" data-bs-touch="true" role="region" aria-roledescription="carrossel" aria-label="Frentes de marketing digital" aria-live="polite" tabindex="0">
+            <div class="carousel-inner">
+              <article class="carousel-item active" role="group" aria-roledescription="slide" aria-label="1 de 4">
+                <div class="marketing-slide marketing-slide-meta">
+                  <div class="marketing-slide-copy">
+                    <span class="marketing-slide-kicker">01 / ANÚNCIOS NAS REDES</span>
+                    <h3>Meta Ads para<br><span>gerar movimento.</span></h3>
+                    <p>Campanhas para Facebook e Instagram, planejadas em torno do público, da oferta e da ação desejada.</p>
+                    <a href="#meta-ads" class="marketing-slide-link">Conhecer Meta Ads <span aria-hidden="true">↗</span></a>
+                  </div>
+                  <div class="marketing-slide-art marketing-slide-photo marketing-slide-art-meta">
+                    <img src="redessociais1.png" alt="Pessoas usando smartphones, imagem ilustrativa para campanhas em redes sociais" width="1080" height="1350" loading="lazy" decoding="async">
+                    <span class="marketing-art-sticker">META ADS<br>FACEBOOK + INSTAGRAM</span>
+                  </div>
+                </div>
+              </article>
+              <article class="carousel-item" role="group" aria-roledescription="slide" aria-label="2 de 4">
+                <div class="marketing-slide marketing-slide-google">
+                  <div class="marketing-slide-copy">
+                    <span class="marketing-slide-kicker">02 / ANÚNCIOS NA BUSCA</span>
+                    <h3>Google Ads no<br><span>momento da busca.</span></h3>
+                    <p>Estruture anúncios para que sua oferta apareça quando alguém procura por uma solução.</p>
+                    <a href="#google-ads" class="marketing-slide-link">Conhecer Google Ads <span aria-hidden="true">↗</span></a>
+                  </div>
+                  <div class="marketing-slide-art marketing-slide-photo marketing-slide-art-google">
+                    <img src="google.png" alt="Tablet exibindo uma página de pesquisa do Google" width="1080" height="1350" loading="lazy" decoding="async">
+                    <span class="marketing-art-sticker">GOOGLE ADS<br>INTENÇÃO DE BUSCA</span>
+                  </div>
+                </div>
+              </article>
+              <article class="carousel-item" role="group" aria-roledescription="slide" aria-label="3 de 4">
+                <div class="marketing-slide marketing-slide-seo">
+                  <div class="marketing-slide-copy">
+                    <span class="marketing-slide-kicker">03 / SEO LOCAL</span>
+                    <h3>Mais presença<br><span>nas buscas locais.</span></h3>
+                    <p>Páginas relevantes e informações consistentes para fortalecer a descoberta do negócio em Aracaju.</p>
+                    <a href="#seo-local" class="marketing-slide-link">Conhecer SEO local <span aria-hidden="true">↗</span></a>
+                  </div>
+                  <div class="marketing-slide-art marketing-slide-art-seo" aria-label="Ilustração de busca local em Aracaju">
+                    <div class="marketing-map-grid"></div>
+                    <div class="marketing-map-pin" aria-hidden="true">⌖</div>
+                    <div class="marketing-local-card"><span>BUSCA LOCAL · ARACAJU, SE</span><strong>Seu negócio pode estar aqui.</strong><small>Conteúdo útil + presença local + confiança</small><div class="marketing-local-stars" aria-label="Sinais de confiança">✳ <i>Informações corretas e verificáveis</i></div></div>
+                    <span class="marketing-art-sticker">RELEVÂNCIA<br>NA REGIÃO</span>
+                  </div>
+                </div>
+              </article>
+              <article class="carousel-item" role="group" aria-roledescription="slide" aria-label="4 de 4">
+                <div class="marketing-slide marketing-slide-data">
+                  <div class="marketing-slide-copy">
+                    <span class="marketing-slide-kicker">04 / CONVERSÃO E MÉTRICAS</span>
+                    <h3>Decisões melhores.<br><span>Com dados úteis.</span></h3>
+                    <p>Acompanhe a jornada do anúncio ao contato e identifique oportunidades de melhoria.</p>
+                    <a href="#mensuracao" class="marketing-slide-link">Conhecer mensuração <span aria-hidden="true">↗</span></a>
+                  </div>
+                  <div class="marketing-slide-art marketing-slide-photo marketing-slide-art-data">
+                    <img src="metricas2.png" alt="Pessoa analisando gráficos e indicadores em uma tela" width="1080" height="1350" loading="lazy" decoding="async">
+                    <span class="marketing-art-sticker">MÉTRICAS<br>MEDIR PARA MELHORAR</span>
+                  </div>
+                </div>
+              </article>
+            </div>
+            <div class="marketing-carousel-footer">
+              <div class="carousel-indicators marketing-carousel-indicators">
+                <button type="button" data-bs-target="#marketing-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Mostrar Meta Ads"><span>01</span></button>
+                <button type="button" data-bs-target="#marketing-carousel" data-bs-slide-to="1" aria-label="Mostrar Google Ads"><span>02</span></button>
+                <button type="button" data-bs-target="#marketing-carousel" data-bs-slide-to="2" aria-label="Mostrar SEO local"><span>03</span></button>
+                <button type="button" data-bs-target="#marketing-carousel" data-bs-slide-to="3" aria-label="Mostrar mensuração"><span>04</span></button>
+              </div>
+              <div class="marketing-carousel-controls">
+                <span class="marketing-carousel-hint">NAVEGUE PELAS SOLUÇÕES</span>
+                <button class="carousel-control-prev" type="button" data-bs-target="#marketing-carousel" data-bs-slide="prev" aria-label="Slide anterior"><span class="carousel-control-prev-icon" aria-hidden="true"></span></button>
+                <button class="carousel-control-next" type="button" data-bs-target="#marketing-carousel" data-bs-slide="next" aria-label="Próximo slide"><span class="carousel-control-next-icon" aria-hidden="true"></span></button>
+              </div>
+            </div>
+          </div>
+          <p class="marketing-showcase-note">As peças e interfaces exibidas são exemplos conceituais, não representam anúncios publicados, clientes atendidos ou resultados obtidos.</p>
+        </div>
+      </section>
+      <section class="detail-scope section-pad" id="escopo" aria-labelledby="scope-title">
+        <div class="section-wrap">
+          <div class="detail-heading"><p class="eyebrow">ESTRATÉGIA DE AQUISIÇÃO PARA NEGÓCIOS</p><h2 id="scope-title">Três frentes.<br>Uma estratégia.</h2><p>Escolha por onde começar. O plano conecta canais, criativos e páginas ao objetivo comercial.</p></div>
+          <div class="row g-4 detail-service-grid">
+            <article class="col-md-6" id="meta-ads"><div class="detail-service-item detail-service-meta"><span>01 / REDES SOCIAIS</span><img class="platform-logo platform-logo-meta" src="Meta_Platforms_Inc._logo.svg.webp" alt="Meta" width="960" height="200" loading="lazy" decoding="async"><h3>Meta Ads</h3><p>Anúncios no Facebook e Instagram planejados para atrair contatos, leads ou vendas.</p><small class="marketing-card-tag">PÚBLICO · CRIATIVO · CAMPANHA</small></div></article>
+            <article class="col-md-6" id="google-ads"><div class="detail-service-item detail-service-google"><span>02 / REDE DE PESQUISA</span><img class="platform-logo platform-logo-google" src="Google_2026_logo.svg.webp" alt="Google" width="330" height="100" loading="lazy" decoding="async"><h3>Google Ads</h3><p>Campanhas para alcançar quem pesquisa por produtos e serviços como os seus.</p><small class="marketing-card-tag">BUSCA · ANÚNCIOS · INTENÇÃO</small></div></article>
+            <article class="col-md-6" id="seo-local"><div class="detail-service-item detail-service-seo"><span>03 / BUSCA ORGÂNICA</span><div class="marketing-service-symbol" aria-hidden="true">⌖</div><h3>SEO local em Aracaju</h3><p>Páginas e conteúdo regional para fortalecer a presença do negócio nas buscas locais.</p><small class="marketing-card-tag">ARACAJU · CONTEÚDO · PRESENÇA</small></div></article>
+            <article class="col-md-6" id="mensuracao"><div class="detail-service-item detail-service-data"><span>04 / ANÁLISE E OTIMIZAÇÃO</span><div class="marketing-service-symbol" aria-hidden="true">⌁</div><h3>Mensuração e conversão</h3><p>Acompanhamento da jornada entre anúncio, página e contato para orientar próximos passos.</p><small class="marketing-card-tag">MÉTRICAS · JORNADA · MELHORIA</small></div></article>
+          </div>
+          <div class="detail-note"><strong>Gestão responsável</strong><p>Investimento em anúncios, escopo de gestão e metas são definidos com transparência. Resultados dependem de oferta, orçamento, mercado, atendimento e outros fatores; não há garantia de vendas, lucro ou posição nos resultados. As contas e o investimento em mídia permanecem vinculados ao cliente.</p></div>
+        </div>
+      </section>
+      <section class="detail-cta section-wrap" id="contato"><div><p class="eyebrow">MARKETING DIGITAL EM ARACAJU E SERGIPE</p><h2>Pronto para atrair<br><span>novas oportunidades?</span></h2><p>Vamos conversar sobre seus objetivos, seu público e o que precisa melhorar na aquisição de clientes.</p></div><a class="button button-dark" href="https://wa.me/5561996556538?text=Ol%C3%A1%2C%20Marcos.%20Quero%20estruturar%20o%20marketing%20digital%20e%20o%20tr%C3%A1fego%20da%20minha%20empresa." target="_blank" rel="noopener noreferrer">Quero estruturar meu marketing <span aria-hidden="true">↗</span></a></section>
+    </main>
+    <footer class="site-footer"><a class="footer-brand" href="index.html#inicio">MARCOS ARAÚJO FERREIRA<span> / MARKETING DIGITAL E SEO</span></a><p>© <span id="current-year">2026</span> · Aracaju, SE.</p><a class="back-top" href="index.html#servicos">TODOS OS SERVIÇOS ↑</a></footer>
+  </body>
+</html>
